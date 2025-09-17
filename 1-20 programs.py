@@ -1,5 +1,5 @@
 
-#1.Pyhton program to print the name 
+#1.Python program to print the name 
 n="N.Venkata Ramana"
 print(n)
 
@@ -134,7 +134,7 @@ if a%2==0:
 else:
     print("odd number") 
 
-#20.pyhton program to check number divisdible by 5 and 11 
+#20.python program to check number divisdible by 5 and 11 
 a=int(input("enter the num"))
 if (a%5==0 and a%11==0):
     print("given number is div by both")
