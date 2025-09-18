@@ -1,7 +1,7 @@
  
 
-#21.Basic python program 
-n=int(input("enterthe age "))
+#21.python program to ghet bthe age details
+n=int(input("enter the age "))
 if n<10:
     print("Child")
 elif (n>=10 and n<=21):
@@ -113,9 +113,10 @@ else:
         total_sum += i ** 3
     print(total_sum)
 
-#29.voting program
+#29.voting eligibility
 n=int(input("enter the age"))
 if n>18:
     print("eligible for vote")
 else:
     print("ineligible")
+
