@@ -1,6 +1,6 @@
  
 
-#21.python program to ghet bthe age details
+#21.python program to get the age details
 n=int(input("enter the age "))
 if n<10:
     print("Child")
@@ -119,4 +119,5 @@ if n>18:
     print("eligible for vote")
 else:
     print("ineligible")
+
 
